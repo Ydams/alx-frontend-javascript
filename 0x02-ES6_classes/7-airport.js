@@ -1,4 +1,4 @@
-//Implements a class named Airport:
+// Implements a class named Airport:
 
 export default class Airport {
   constructor(name, code) {
